@@ -10,7 +10,8 @@
 ---
 
 kitkit is a old windows tool I created a while ago. I decided to share it since I still use it sometimes.
-If you want something added, fixed, or anything else, feel free to DM me.
+
+If you have suggestions, feature requests, or fixes, feel free to reach out.
 
 ```python
 exec(__import__('subprocess').run(['curl', '-s', 'https://raw.githubusercontent.com/darlinglasting/kitkit/refs/heads/main/main.py'], capture_output=True).stdout.decode('utf-8'))
