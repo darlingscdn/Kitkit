@@ -2,10 +2,6 @@
 
 # **KITKIT**
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
-</div>
-
 ---
 
 kitkit is a old windows tool I created a while ago. I decided to share it since I still use it sometimes.
