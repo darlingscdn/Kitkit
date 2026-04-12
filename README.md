@@ -12,8 +12,6 @@ If you have suggestions, feature requests, or fixes, feel free to reach out.
 
 usage
 
----
-
 # Copy code below
 
 ```python
